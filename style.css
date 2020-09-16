@@ -5,6 +5,9 @@ body{
     margin-left: 300px;
     margin-right:300px;
     background-color:#F3d250;
+    border: solid;
+    margin-bottom: 5em;
+    padding: 1em;
 }
 
 h1,h2{
